@@ -1,0 +1,18 @@
+.svg-container {
+  margin: 40px auto auto;
+  max-width: fit-content;
+  width: 70%
+}
+
+.svg-container svg {
+    width: 100%;
+    transform-origin: 50% 50%;
+    transform: rotateZ(90deg);
+    transition: 1s transform  ease-in-out;
+}
+
+.svg-container svg path {
+        will-change: auto;
+        stroke-miterlimit: round;
+        transition: stroke-dashoffset 850ms ease-in-out;
+}
