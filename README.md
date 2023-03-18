@@ -1,2 +1,2 @@
 # INFYNITE
-Temporary web application 
+Temporary web application for upcoming FYI Infyinite event.
